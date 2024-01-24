@@ -12,4 +12,4 @@ hello pwgo! hello git!
 hello pwgo! hello git!
 hello pwgo! hello git!
 hello pwgo! hello git!
-hello pwgo! hello git!
+hello pwgo! hello git! hot-fix test
